@@ -1,0 +1,2 @@
+# Terraform
+Static-IAC
